@@ -1,6 +1,6 @@
 # Welcome to Tempo &middot; [![GitHub license](https://img.shields.io/github/license/lengors/tempo?color=blue)](https://github.com/lengors/tempo/blob/main/LICENSE)
 
-Welcome to the **tempo** repository! This project provides with a custom container image extending [tempo containers](https://github.com/open-telemetry/tempo) with a custom user.
+Welcome to the **tempo** repository! This project provides a custom container image extending [tempo containers](https://github.com/grafana/tempo) with additional utilities.
 
 ## Documentation and Resources
 
